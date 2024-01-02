@@ -1,7 +1,8 @@
-### Hi there 👋
+### Xinliang Dai | dailingx
 
-<img src="https://github-readme-stats.vercel.app/api?username=dailingx&show_icons=true&theme=vue&count_private=true&cache_seconds=1800" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=dailingx&include_all_commits=true&show_icons=true&theme=vue&cache_seconds=1800" align="right" />
 
+Hi there 👋
 - 🔭 I’m currently working on [Alibaba](https://github.com/alibaba)
 - 📫 How to reach me: 468551414@qq.com
 
