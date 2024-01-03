@@ -4,7 +4,8 @@
 
 Hi there 👋
 - 🔭 I’m currently working on [Alibaba](https://github.com/alibaba)
-- 📫 How to reach me: 468551414@qq.com
+- 🌱 I’m currently focusing on the AI video generation
+- 📫 How to reach me: dailingyx@gmail.com
 
 <!--
 **dailingx/dailingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
