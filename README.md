@@ -2,10 +2,11 @@
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=dailingx&include_all_commits=true&show_icons=true&theme=vue&cache_seconds=1800" align="right" />
+- 🔭 I’m currently working on [Alibaba](https://github.com/alibaba)
 -->
 
 Hi there 👋
-- 🔭 I’m currently working on [Alibaba](https://github.com/alibaba)
+
 - 🌱 I’m currently focusing on the AI video generation
 - 📫 How to reach me: dailingyx@gmail.com
 
